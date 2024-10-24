@@ -1,0 +1,14 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\bin\Debug\net8.0\DataStructuresLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\bin\Debug\net8.0\DataStructuresLab.deps.json
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\bin\Debug\net8.0\DataStructuresLab.runtimeconfig.json
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\bin\Debug\net8.0\DataStructuresLab.dll
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\bin\Debug\net8.0\DataStructuresLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.AssemblyInfoInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.AssemblyInfo.cs
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.dll
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\refint\DataStructuresLab.dll
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\DataStructuresLab.genruntimeconfig.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\DataStructuresLab\obj\Debug\net8.0\ref\DataStructuresLab.dll
